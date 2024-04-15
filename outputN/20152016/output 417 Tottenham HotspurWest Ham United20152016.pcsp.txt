@@ -1,0 +1,22 @@
+=======================================================
+Assertion: AtkKep() |= F G Goal0 with prob
+********Verification Result********
+The Assertion (AtkKep() |= F G Goal0 with prob) is Valid with Probability [0, 0.02636];
+
+WARNING: The system has deadlock states. Self-loop transitions have been added to remove the deadlock!
+
+********Verification Setting********
+Admissible Behavior: All
+Search Engine: End-Components Identification; Graph-based Probabity Computation.
+System Abstraction: False
+Maximum difference threshold : 1E-06
+
+
+********Verification Statistics********
+Visited States:169772
+Total Transitions:236428
+MDP Iterations:3120652
+Time Used:6.8784596s
+Estimated Memory Used:152709.664KB
+
+
