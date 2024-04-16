@@ -97,13 +97,13 @@ def readfile(season):
 
 if __name__ == "__main__":
     # seasons = [20152016,20162017]
-    seasons = [20152016]
+    # seasons = [20152016]
     #seasons = [20162017]
     # seasons = [20172018]
     # seasons = [20182019]
     # seasons = [20192020]
     # seasons = [20202021]
-    # seasons = [20152016,20162017,20172018,20182019,20192020,20202021]
+    seasons = [20162017,20172018,20182019,20192020,20202021]
     #seasons = [20202021]
     for season in seasons:
         readfile(season)    
